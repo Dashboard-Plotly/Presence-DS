@@ -19,7 +19,7 @@
   - Frontend.
 - [Harleny Angélica](https://github.com/Angelicahaas)
   - FullStack.
-
+- [Thaiza Romualdo](https://github.com/ThaizaWeert/ThaizaWeert)
 ![Inserir um título](https://user-images.githubusercontent.com/101230741/188219594-cafb510d-3416-419d-a3ba-c16859e773b0.png)
 
 
